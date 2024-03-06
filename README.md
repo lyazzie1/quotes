@@ -14,6 +14,10 @@ To add to the list of quotes:
 
 ## The Quotes
 
+> Insomnia sharpens your math skills because you spend all night calculating how much sleep you’ll get if you’re able to ‘fall asleep right now.
+
+Anonymous
+
 > To live is the rarest thing in the world. Most people exist, that is all.
 
 Oscar Wilde
